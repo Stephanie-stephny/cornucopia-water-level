@@ -1,4 +1,4 @@
-name: Download Cornucopia Water Level Data
+name: .github/workflows/download_cornucopia.yml
 
 on:
   schedule:
